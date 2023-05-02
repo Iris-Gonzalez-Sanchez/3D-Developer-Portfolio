@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Raleway+Dots&family=Raleway:ital,wght@0,300;0,400;1,300;1,600&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap"); */
+
 
 @tailwind base;
 @tailwind components;
@@ -8,9 +10,25 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Great Vibes", cursive;
   scroll-behavior: smooth;
   color-scheme: dark;
+}
+
+a {
+  font-size: 30px;
+}
+
+.text-secondary {
+  font-family: "Raleway", sans-serif;
+}
+
+.text-white-100 {
+  font-family: "Raleway Dots", cursive;
+}
+
+.rounded-lg {
+  font-family: "Raleway Dots", cursive;
 }
 
 .hash-span {

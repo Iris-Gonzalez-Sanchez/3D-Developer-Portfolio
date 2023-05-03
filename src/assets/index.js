@@ -26,9 +26,9 @@ import accenture from "./company/accenture.png";
 import flatiron from "./company/flatiron_school.png";
 import mta from "./company/mta.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import ainquery from "/Users/irisgon-san/Desktop/3D_Portfolio/src/assets/AI-N-Query copy.jpg";
+import libertastoken from "/Users/irisgon-san/Desktop/3D_Portfolio/src/assets/Libertas Token Design.jpg";
+import studioghibli from "/Users/irisgon-san/Desktop/3D_Portfolio/src/assets/Studio Ghibli Movie Finder copy.jpg";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   accenture,
   flatiron,
   mta,
-  carrent,
-  jobit,
-  tripguide,
+  ainquery,
+  libertastoken,
+  studioghibli,
 };

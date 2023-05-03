@@ -19,9 +19,9 @@ import {
   flatiron,
   mta,
   accenture,
-  carrent,
-  jobit,
-  tripguide,
+  ainquery,
+  libertastoken,
+  studioghibli,
   threejs,
 } from "../assets";
 
@@ -198,58 +198,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "AI-n-Query",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "AI-n-Query is an innovative algorithms' and data structures' study-bot messenger that utilizes OpenAI's natural language processing to provide seamless and intuitive interactions between users and artificial intelligence.",
     tags: [
       {
-        name: "react",
+        name: "javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
+        name: "openAi",
         color: "green-text-gradient",
       },
       {
@@ -257,8 +215,52 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: ainquery,
+    source_code_link: "https://github.com/Iris-Gonzalez-Sanchez/AI-n-Query",
+  },
+  {
+    name: "Libertas Token",
+    description:
+      "Libertas Token is a web application that enables users to supplement their skills for investments via this value-tracking platform for Stocks or Cryptocurrency market! By utilizing advanced algorithms, it provides real-time market analysis.",
+    tags: [
+      {
+        name: "ruby",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "websocket",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: libertastoken,
+    source_code_link:
+      "https://github.com/Iris-Gonzalez-Sanchez/capstone-project",
+  },
+  {
+    name: "Studio Ghibli Movie Finder",
+    description:
+      "A comprehensive platform that allows users to see the Studio Ghibli movie collection in one easy to browse site without bias of top 10. It functions to display movie selections based on the user's search inputs.",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: studioghibli,
+    source_code_link:
+      "https://github.com/Iris-Gonzalez-Sanchez/Studio-Ghibli-Movie-Finder",
   },
 ];
 

@@ -19,17 +19,18 @@ a {
   font-size: 30px;
 }
 
-.text-secondary {
+.text-secondary,
+.project-title {
   font-family: "Raleway", sans-serif;
 }
 
-.text-white-100 {
-  font-family: "Raleway Dots", cursive;
-}
-
+.text-white-100,
+.skill-cards, 
+.experience-title,
 .rounded-lg {
   font-family: "Raleway Dots", cursive;
 }
+
 
 .hash-span {
   margin-top: -100px;

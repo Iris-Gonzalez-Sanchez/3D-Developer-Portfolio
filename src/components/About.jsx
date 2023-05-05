@@ -41,7 +41,8 @@ const About = () => {
     <motion.p
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
     >
-      I'm a skilled software developer with experience in TypeScript and Javascript, and expertise in frameworks like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+      I'm a skilled full stack software developer with experience using frontend and backend technologies, and expertise in frameworks like React, Node.js, and Ruby on Rails. Proficient in developing and deploying software applications, collaborating with cross-functional teams to deliver projects on time by utilizing my strong communication and problem-solving skills.
+      I'm a quick learner and collaborate closely with clients or teams to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
     </motion.p>
 
     <div className='mt-20 flex flex-wrap gap-10'>

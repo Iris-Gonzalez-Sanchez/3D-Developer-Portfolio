@@ -6,10 +6,6 @@ import { styles } from '../styles';
 import { EarthCanvas } from './canvas';
 import { SectionWrapper } from '../hoc';
 import { slideIn } from '../utils/motion';
-// import { textVariant } from '../utils/motion';
-// i just added May 1st 
-
-
 
 
 const Contact = () => {

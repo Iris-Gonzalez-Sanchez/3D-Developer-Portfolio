@@ -28,7 +28,7 @@ const Navbar = () => {
             }}
           >
             <img src={logo} alt="logo" className='w-9 h-9 object-contain' />
-            <p className='text-white text-[30px] font-bold cursor-pointer flex'> ✨ Iris Stack &nbsp;
+            <p className='text-white text-[30px] font-bold cursor-pointer flex'> ✨ Iris Gonzalez Sanchez &nbsp;
               <span className='sm:block hidden'>| Software Developer ✨</span>
             </p>
           </Link>
